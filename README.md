@@ -1,15 +1,10 @@
-# 项目作品集
+# 原项目访问入口
 
-[直接打开公开演示](https://zhez456h.github.io/project-portfolio/)
+- [GEO 诊断](https://geo.goodbye.best/)
+- [远帆 AI](https://yuanfan.goodbye.best/)
+- [AI 算力报价](https://quote.goodbye.best/)
+- [跨境商城](https://novatech.goodbye.best/)
+- [Sub2API](https://ipc.goodbye.best/)
+- [数字商品商城](https://shop.goodbye.best/)
 
-这是用于作品集的静态演示版本，打开即看，不需要账号。示例数据在浏览器本地使用，不连接原站数据库、邮件、支付或 AI 接口。它不等同于后端完整服务。
-
-## 查看与运行
-
-打开 `index.html`，或从本目录启动任意静态 HTTP 服务器。GitHub Pages 从 `main` 分支根目录发布。
-
-
-
-## 范围
-
-原始服务、备份、配置与数据库不包含在此公开仓库中。演示不提供真实支付、真实邮件发送或实时 AI 调用。
+此页面仅整理原站链接，没有重新制作项目界面。原站登录及功能保持不变。此前制作的模拟页面不代表原项目。
